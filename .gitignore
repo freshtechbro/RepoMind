@@ -13,6 +13,10 @@ megaprompts/
 .env.example
 *.env
 
+# MCP configuration
+mcp.json
+.cursor/mcp.json
+
 # Python
 __pycache__/
 *.py[cod]
