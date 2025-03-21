@@ -1,0 +1,9 @@
+{
+  "name": "typescript-method-extractor",
+  "version": "1.0.0",
+  "description": "Extracts method calls from TypeScript/JavaScript code",
+  "main": "extract_calls.js",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}

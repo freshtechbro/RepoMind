@@ -1,0 +1,48 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.4.2
+python-dotenv==1.0.0
+httpx==0.25.1
+
+# GitHub Integration
+PyGithub==1.59.1
+gitpython==3.1.40
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Code Analysis
+ast-analyzer==0.1.1
+astroid==3.0.1
+pylint==3.0.2
+esprima-python==4.0.1
+typescript-parser==0.0.16
+
+# Diagram Generation
+plantuml==0.3.0
+diagrams==0.23.3
+pydot==1.4.2
+graphviz==0.20.1
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.1
+
+# Security
+bandit==1.7.5
+safety==2.3.5
+
+# Database
+sqlalchemy==2.0.23
+alembic==1.12.1
+psycopg2-binary==2.9.9
+
+# Utils
+pyyaml==6.0.1
+jinja2==3.1.2
+cachetools==5.3.2
+tqdm==4.66.1 
